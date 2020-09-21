@@ -1,0 +1,12 @@
+/*
+!.gitignore
+!wp-content/
+wp-content/uploads
+wp-content/languages
+wp-content/ai1wm-backups
+wp-content/neve
+wp-content/neve-child-theme
+# macOSFiles
+Thumb.db
+.cache
+wp-content/themes/astra/package-lock.json
