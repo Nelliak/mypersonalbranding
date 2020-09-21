@@ -1,0 +1,13 @@
+/*
+!.gitignore
+!wp-content/
+wp-content/uploads
+wp-conenct/languages
+#macOSFiles
+.DS_Store
+Thumb.db
+.cache
+wp-content/themes/astra/package-lock.json
+wp-content/themes/neve
+wp-content/themes/neve-child-theme
+wp-content/ai1wm-backups
