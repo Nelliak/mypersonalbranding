@@ -4,9 +4,10 @@
 wp-content/uploads
 wp-content/languages
 wp-content/ai1wm-backups
-wp-content/neve
-wp-content/neve-child-theme
-# macOSFiles
+wp-content/themes/neve
+wp-content/themes/neve-child-theme
+#macOSFiles
+.DS_Store
 Thumb.db
 .cache
 wp-content/themes/astra/package-lock.json
